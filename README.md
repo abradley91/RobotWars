@@ -56,6 +56,7 @@ Expected output:
 
 ## Things to Consider for Future
 
-- Number of robots playing game
+- Tidy up game class and have better input validation
+- Number of robots playing game (this would also probably effect how big the arena should be)
 - Robot collisions. All robot positions would need to be known before a robot can make a move to avoid collision.
 - If expanded to support concurrent robot moves, what would need to change
